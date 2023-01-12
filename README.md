@@ -8,13 +8,14 @@ End-to-end (E2E) testing is an important aspect of software development, as it a
 
 The objective of this proof of concept is to demonstrate the capabilities of Playwright by creating a simple E2E test for a web application and showing how it can be used to automate the testing process.
 
-## Methodology
+## Methodology
 
-Create a simple web application for testing purposes.
-Install Playwright and its dependencies.
-Write a test script using Playwright to automate the testing process.
-Execute the test script and analyze the results.
-Results
+1. Create a simple web application for testing purposes.
+2. Install Playwright and its dependencies.
+3. Write a test script using Playwright to automate the testing process.
+4. Execute the test script and analyze the results.
+
+## Results
 The test script was able to successfully simulate user interactions with the web application, such as clicking buttons and filling out forms. Playwright also provided detailed error messages and debugging information, making it easy to identify and fix any issues that were encountered during testing.
 
 ## Conclusion
